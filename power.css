@@ -1,0 +1,28 @@
+h1, p, h2{
+    text-align:center;
+    font-family:"Comic Sans MS";
+}
+
+h1{
+    font-size:50px;
+    background-color:maroon;
+    padding-top:50px;
+    padding-bottom:50px;
+    margin:0px;
+}
+
+h2{
+    font-size:30px;
+}
+
+p{
+    font-size:20px;
+}
+
+.disclaimer{
+    font-size:6px;
+}
+
+.message{
+    font-size:40px;
+}
